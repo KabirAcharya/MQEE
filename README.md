@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple example steps.
 
 This project requires that you use an up-to-date version of a Chromium or Gecko based web browser.
 
-<h4>Installation (Chromium)</h4>
+<h4>Installation (Chromium/Google Chrome)</h4>
 
 1. Download the latest source zip from [releases][releases-url] (soon)
 2. Extract the zip file
@@ -77,9 +77,14 @@ This project requires that you use an up-to-date version of a Chromium or Gecko 
 5. Drag and Drop the "Chromium" folder into the extensions window
 6. Done :)
 
-<h4>Installation (Gecko)</h4>
+<h4>Installation (Gecko/Firefox)</h4>
 
-Planned for the Future
+1. Download the latest source zip from [releases][releases-url] (soon)
+2. Extract the zip file
+3. Visit the URL about:debugging
+4. Click "Load Temporary Add-on..."
+5. Open the "manifest.json" file inside the "Gecko" folder
+6. Done :)
 
 
 
