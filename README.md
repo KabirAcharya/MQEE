@@ -54,6 +54,7 @@ The latest version of MQEE solves the issues listed below.
 - "Right-click" + "Open link in new tab" now works on the Echo360 link.
 - Pressing "Tab" inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
 - The MQ logo on the navigation bar is inlined instead of hanging off the edge.
+- The extra header bar on the "My Home" page is now removed.
 
 
 

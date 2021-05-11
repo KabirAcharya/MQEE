@@ -30,6 +30,10 @@
         {
             "matches": ["*://ilearn.mq.edu.au/course/view.php*"],
             "js": ["/injection/js/linkfix.js"]
+        },
+        {
+            "matches": ["https://ilearn.mq.edu.au/my/*"],
+            "js": ["/injection/js/headerfix.js"]
         }
     ]
 }
