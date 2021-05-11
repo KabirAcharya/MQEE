@@ -15,7 +15,7 @@
   <p align="center">
     A browser extension crafted to solve all your MQ Platform annoyances.
     <br />
-    <a href="https://github.com/KabirAcharya/MQEE/releases"><strong>Download (Soon) »</strong></a>
+    <a href="https://github.com/KabirAcharya/MQEE/releases"><strong>Download »</strong></a>
     <br />
     <br />
     <a href="https://github.com/KabirAcharya/MQEE/issues">Report Bug</a>
