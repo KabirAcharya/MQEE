@@ -70,7 +70,7 @@ This project requires that you use an up-to-date version of a Chromium or Gecko 
 
 <h4>Installation (Chromium/Google Chrome)</h4>
 
-1. Download the latest source zip from [releases][releases-url] (soon)
+1. Download the latest source zip from [releases][releases-url]
 2. Extract the zip file
 3. Visit the URL chrome://extensions
 4. Enable "Developer mode"
@@ -79,7 +79,7 @@ This project requires that you use an up-to-date version of a Chromium or Gecko 
 
 <h4>Installation (Gecko/Firefox)</h4>
 
-1. Download the latest source zip from [releases][releases-url] (soon)
+1. Download the latest source zip from [releases][releases-url]
 2. Extract the zip file
 3. Visit the URL about:debugging
 4. Click "Load Temporary Add-on..."
