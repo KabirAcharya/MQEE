@@ -35,6 +35,7 @@
         <ul>
             <li><a href="#prerequisites">Prerequisites</a></li>
             <li><a href="#installation-chromium">Installation (Chromium)</a></li>
+            <li><a href="#installation-gecko">Installation (Gecko)</a></li>
         </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -65,18 +66,18 @@ To get a local copy up and running follow these simple example steps.
 
 <h4>Prerequisites</h4>
 
-This project requires that you use an up-to-date version of a Chromium or Firefox based web browser.
+This project requires that you use an up-to-date version of a Chromium or Gecko based web browser.
 
 <h4>Installation (Chromium)</h4>
 
 1. Download the latest source zip from [releases][releases-url] (soon)
 2. Extract the zip file
-3. Visit the URL [chrome://extensions](chrome://extensions)
+3. Visit the URL chrome://extensions
 4. Enable "Developer mode"
-5. Drag and Drop the "Chrome" folder into the extensions window
+5. Drag and Drop the "Chromium" folder into the extensions window
 6. Done :)
 
-<h4>Installation (Firefox)</h4>
+<h4>Installation (Gecko)</h4>
 
 Planned for the Future
 
