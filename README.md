@@ -34,8 +34,8 @@
         <a href="#getting-started">Getting Started</a>
         <ul>
             <li><a href="#prerequisites">Prerequisites</a></li>
-            <li><a href="#installation-chromium/google-chrome">Installation (Chromium/Google Chrome)</a></li>
-            <li><a href="#installation-gecko/firefox">Installation (Gecko/Firefox)</a></li>
+            <li><a href="#installation-chromiumgoogle-chrome">Installation (Chromium/Google Chrome)</a></li>
+            <li><a href="#installation-geckofirefox">Installation (Gecko/Firefox)</a></li>
         </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
