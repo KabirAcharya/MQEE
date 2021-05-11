@@ -22,10 +22,14 @@
     ·
     <a href="https://github.com/KabirAcharya/MQEE/issues">Request Feature</a>
   </p>
-
 <h1>Table of Contents</h1>
 <ol>
-    <li><a href="#features">Features</a></li>
+    <li>
+        <a href="#features">Features</a>
+        <ul>
+            <li><a href="#ilearn">iLearn</a></li>
+        </ul>
+    </li>
     <li>
         <a href="#getting-started">Getting Started</a>
         <ul>
@@ -40,11 +44,12 @@
 
 
 
+
 ## Features
 
 The latest version of MQEE solves the issues listed below.
 
-iLearn
+<h4>iLearn</h4>
 
 - "Right-click" + "Open link in new tab" now works on the Echo360 link.
 - Pressing "Tab" inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
