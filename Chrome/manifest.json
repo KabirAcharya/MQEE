@@ -6,30 +6,30 @@
     "permissions": ["storage", "activeTab", "scripting"],
     "action": {
         "default_icon": {
-            "16": "/images/get_started16.png",
-            "32": "/images/get_started32.png",
-            "48": "/images/get_started48.png",
-            "128": "/images/get_started128.png"
+            "16": "/internal/images/icon16.png",
+            "32": "/internal/images/icon32.png",
+            "48": "/internal/images/icon48.png",
+            "128": "/internal/images/icon128.png"
         }
     },
     "icons": {
-        "16": "/images/get_started16.png",
-        "32": "/images/get_started32.png",
-        "48": "/images/get_started48.png",
-        "128": "/images/get_started128.png"
+        "16": "/internal/images/icon16.png",
+        "32": "/internal/images/icon32.png",
+        "48": "/internal/images/icon48.png",
+        "128": "/internal/images/icon128.png"
     },
     "content_scripts": [
         {
             "matches": ["*://ilearn.mq.edu.au/*"],
-            "css": ["/css/custom.css"]
+            "css": ["/injection/css/custom.css"]
         },
         {
             "matches": ["*://ilearn.mq.edu.au/mod/quiz/attempt.php*"],
-            "js": ["/js/tabfix.js"]
+            "js": ["/injection/js/tabfix.js"]
         },
         {
             "matches": ["*://ilearn.mq.edu.au/course/view.php*"],
-            "js": ["/js/linkfix.js"]
+            "js": ["/injection/js/linkfix.js"]
         }
     ]
 }
