@@ -1,7 +1,7 @@
 {
     "name": "MQEE",
     "description": "Macquarie Extension Essentials: The ultimate solution for all your MQ Platform annoyances.",
-    "version": "0.1",
+    "version": "0.0.1",
     "manifest_version": 3,
     "background": {
         "service_worker": "/js/background.js"
