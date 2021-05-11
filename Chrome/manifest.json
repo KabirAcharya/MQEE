@@ -21,15 +21,12 @@
     "content_scripts": [
         {
             "matches": ["*://ilearn.mq.edu.au/*"],
-            "css": ["/injection/css/custom.css"]
+            "css": ["/injection/css/custom.css"],
+            "js": ["/injection/js/linkfix.js"]
         },
         {
             "matches": ["*://ilearn.mq.edu.au/mod/quiz/attempt.php*"],
             "js": ["/injection/js/tabfix.js"]
-        },
-        {
-            "matches": ["*://ilearn.mq.edu.au/course/view.php*"],
-            "js": ["/injection/js/linkfix.js"]
         },
         {
             "matches": ["https://ilearn.mq.edu.au/my/*"],
