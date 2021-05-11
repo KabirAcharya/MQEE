@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/KabirAcharya/MQEE">
-    <img src="/KabirAcharya/MQEE/raw/master/MQ.svg" alt="Logo" width="100%" height="200">
+    <img src="/MQ.svg" alt="Logo" width="100%" height="200">
   </a>
 
   <h1 align="center">MQEE</h1>
