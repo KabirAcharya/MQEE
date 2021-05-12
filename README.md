@@ -10,7 +10,7 @@
     <img src="/MQ.svg" alt="Logo" width="100%" height="200">
   </a>
 
-  <h1 align="center">MQEE</h1>
+  <h1 align="center">Macquarie Essentials Extension</h1>
 
   <p align="center">
     A browser extension crafted to solve all your MQ Platform annoyances.
