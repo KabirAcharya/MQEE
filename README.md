@@ -75,7 +75,7 @@ This project requires that you use an up-to-date version of a Chromium or Gecko 
 2. Extract the zip file
 3. Visit the URL chrome://extensions
 4. Enable "Developer mode"
-5. Drag and Drop the "Chromium" folder into the extensions window
+5. Drag and Drop the "Extension" folder into the extensions window
 6. Done :)
 
 <h4>Installation (Gecko/Firefox)</h4>
@@ -84,7 +84,7 @@ This project requires that you use an up-to-date version of a Chromium or Gecko 
 2. Extract the zip file
 3. Visit the URL about:debugging
 4. Click "Load Temporary Add-on..."
-5. Open the "manifest.json" file inside the "Gecko" folder
+5. Open the "manifest.json" file inside the "Extension" folder
 6. Done :)
 
 
