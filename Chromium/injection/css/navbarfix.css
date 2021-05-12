@@ -7,3 +7,7 @@
 .navbar.bg-mq .logo img {
   max-height: 50px !important;
 }
+
+.navbar-brand {
+  padding: 0px !important;
+}
