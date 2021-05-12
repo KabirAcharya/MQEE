@@ -1,7 +1,7 @@
 {
     "name": "MQEE",
     "description": "Macquarie Essentials Extension: The ultimate solution for all your MQ Platform annoyances.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "manifest_version": 2,
     "icons": {
         "16": "/internal/images/icon16.png",
