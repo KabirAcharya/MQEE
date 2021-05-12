@@ -53,7 +53,7 @@ The latest version of MQEE solves the issues listed below.
 
 <h4>iLearn</h4>
 
-- "Right-click" + "Open link in new tab" now works on the Echo360 link.
+- "Right-click" + "Open link in new tab" now works Echo360 and PDF links.
 - Pressing "Tab" inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
 - The MQ logo on the navigation bar is inlined instead of hanging off the edge.
 - The extra header bar on the "My Home" page is now removed.
