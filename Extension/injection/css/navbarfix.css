@@ -1,13 +1,9 @@
-.navbar * {
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  overflow: hidden;
+.navbar.bg-mq .logo {
+  margin-bottom: 0 !important;
 }
 
 .navbar.bg-mq .logo img {
-  max-height: 50px !important;
-}
+  height: 50px;
+  max-height: 50px;
 
-.navbar-brand {
-  padding: 0px !important;
 }
