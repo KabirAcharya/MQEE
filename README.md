@@ -43,6 +43,7 @@
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
 
@@ -112,7 +113,7 @@ Contributions you make are **greatly appreciated**. They help speed up the devel
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contributions
+## Contributors
 * [Jack Davenport](https://github.com/Romejanic)
 * [Jordan Bertasso](https://github.com/jordanbertasso)
 
