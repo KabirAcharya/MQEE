@@ -26,6 +26,7 @@
         },
         {
             "matches": ["https://ilearn.mq.edu.au/my/*"],
+            "js": ["/injection/js/homepage.js"],
             "css": ["/injection/css/headerfix.css"]
         },
         {

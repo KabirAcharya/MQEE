@@ -61,6 +61,7 @@ The latest version of MQEE solves the issues listed below.
 - The MQ logo on the navigation bar is inlined instead of hanging off the edge.
 - The extra header bar on the "My Home" page is now removed.
 - Using the shortcuts Shift++ and Shift+-, you can open or close all collapsibles on an iLearn course page.
+- Pressing the numbers 1-9 on the home page will open the corresponding unit in a new tab.
 
 <h4>eStudent</h4>
 
