@@ -112,7 +112,6 @@ Contributions you make are **greatly appreciated**. They help speed up the devel
 
 ## Contributions
 * [Jack Davenport](https://github.com/Romejanic)
-* []
 
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
