@@ -52,7 +52,7 @@
 
 ## Features
 
-The latest version of MQEE solves the issues listed below.
+The latest version of MQEE solves the issues and adds the features listed below.
 
 <h4>iLearn</h4>
 
@@ -114,6 +114,7 @@ Contributions you make are **greatly appreciated**. They help speed up the devel
 
 ## Contributions
 * [Jack Davenport](https://github.com/Romejanic)
+* [Jordan Bertasso](https://github.com/jordanbertasso)
 
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
