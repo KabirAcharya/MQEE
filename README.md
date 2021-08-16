@@ -62,6 +62,7 @@ The latest version of MQEE solves the issues listed below.
 - Using the shortcuts Shift++ and Shift+-, you can open or close all collapsibles on an iLearn course page.
 
 <h4>eStudent</h4>
+
 - The "Note" on the "My Enrolment" page no longer covers your screen when you scroll down.
 
 ## Getting Started
