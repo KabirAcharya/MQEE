@@ -3,10 +3,6 @@
     "description": "Macquarie Essentials Extension: The ultimate solution for all your MQ Platform annoyances.",
     "version": "0.0.3",
     "manifest_version": 2,
-    "action": {
-        "default_icon": "internal/images/icon128.png",
-        "default_popup": "internal/html/options.html"
-    },
     "browser_action": {
         "default_icon": "internal/images/icon128.png",
         "default_title": "MQEE",
