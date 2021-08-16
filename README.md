@@ -6,13 +6,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/KabirAcharya/MQEE">
-    <img src="/MQ.svg" alt="Logo" width="100%" height="200">
-  </a>
+    <a href="https://github.com/KabirAcharya/MQEE">
+        <img src="/MQ.svg" alt="Logo" width="100%" height="200">
+    </a>
+</p>
 
-  <h1 align="center">Macquarie Essentials Extension</h1>
+<h1 align="center">Macquarie Essentials Extension</h1>
 
-  <p align="center">
+<p align="center">
     A browser extension crafted to solve all your MQ Platform annoyances.
     <br />
     <a href="https://github.com/KabirAcharya/MQEE/releases"><strong>Download »</strong></a>
@@ -21,7 +22,8 @@
     <a href="https://github.com/KabirAcharya/MQEE/issues">Report Bug</a>
     ·
     <a href="https://github.com/KabirAcharya/MQEE/issues">Request Feature</a>
-  </p>
+</p>
+
 <h1>Table of Contents</h1>
 <ol>
     <li>
@@ -53,12 +55,14 @@ The latest version of MQEE solves the issues listed below.
 
 <h4>iLearn</h4>
 
-- "Right-click" + "Open link in new tab" now works Echo360 and PDF links.
+- "Right-click" + "Open link in new tab" now works on Echo360 and PDF links.
 - Pressing "Tab" inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
 - The MQ logo on the navigation bar is inlined instead of hanging off the edge.
 - The extra header bar on the "My Home" page is now removed.
+- Using the shortcuts Shift++ and Shift+-, you can open or close all collapsibles on an iLearn course page.
 
-
+<h4>eStudent</h4>
+- The "Note" on the "My Enrolment" page no longer covers your screen when you scroll down.
 
 ## Getting Started
 
@@ -105,8 +109,9 @@ Contributions you make are **greatly appreciated**. They help speed up the devel
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contributors
+## Contributions
 * [Jack Davenport](https://github.com/Romejanic)
+* []
 
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)

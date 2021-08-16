@@ -1,0 +1,1 @@
+document.getElementById("ctl00_Content_divPlanHeaderMarker").remove();

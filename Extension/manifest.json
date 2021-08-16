@@ -30,7 +30,15 @@
         },
         {
             "matches": ["https://ilearn.mq.edu.au/my/*"],
-            "js": ["/injection/js/headerfix.js"]
+            "css": ["/injection/css/headerfix.css"]
+        },
+        {
+            "matches": ["https://ilearn.mq.edu.au/course/view.php*"],
+            "js": ["/injection/js/collapse.js"]
+        },
+        {
+            "matches": ["https://mq-edu-web.t1cloud.com/T1SMDefault/WebApps/eStudent/SM/StudyPlanDtls10.aspx*"],
+            "js": ["/injection/js/notefix.js"]
         }
     ]
 }
