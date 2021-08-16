@@ -1,0 +1,9 @@
+.navbar.bg-mq .logo {
+  margin-bottom: 0 !important;
+}
+
+.navbar.bg-mq .logo img {
+  height: 50px;
+  max-height: 50px;
+
+}
