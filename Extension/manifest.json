@@ -21,7 +21,8 @@
     "content_scripts": [
         {
             "matches": ["*://ilearn.mq.edu.au/*"],
-            "js": ["/injection/js/linkfix.js", "/injection/js/navbarfix.js"]
+            "js": ["/injection/js/linkfix.js"],
+            "css": ["/injection/css/navbarfix.css"]
         },
         {
             "matches": ["*://ilearn.mq.edu.au/mod/quiz/attempt.php*"],

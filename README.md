@@ -105,10 +105,12 @@ Contributions you make are **greatly appreciated**. They help speed up the devel
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+## Contributors
+* [Jack Davenport](https://github.com/Romejanic)
 
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 
 
 
