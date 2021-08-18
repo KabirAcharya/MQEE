@@ -90,7 +90,7 @@ This project requires that you use an up-to-date version of a Chromium or Gecko 
 
 1. Download the latest source zip from [releases][releases-url]
 2. Extract the zip file
-3. Visit the URL about:debugging
+3. Visit the URL about:debugging#/runtime/this-firefox
 4. Click "Load Temporary Add-on..."
 5. Open the "manifest.json" file inside the "Extension" folder
 6. Done :)
