@@ -57,8 +57,8 @@ The latest version of MQEE solves the issues and adds the features listed below.
 
 <h4>iLearn</h4>
 
-- "Right-click" + "Open link in new tab" now works on Echo360 and PDF links.
-- Pressing "Tab" inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
+- Right-click + "Open link in new tab" now works on Echo360 and PDF links.
+- Pressing Tab inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
 - The MQ logo on the navigation bar is inlined instead of hanging off the edge.
 - The extra header bar on the "My Home" page is now removed.
 - Using the shortcuts Shift++ and Shift+-, you can open or close all collapsibles on an iLearn course page.
@@ -70,7 +70,6 @@ The latest version of MQEE solves the issues and adds the features listed below.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 <h4>Prerequisites</h4>
