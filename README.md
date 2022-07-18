@@ -57,6 +57,7 @@ The latest version of MQEE solves the issues and adds the features listed below.
 
 <h4>iLearn</h4>
 
+- When visiting the site, the page will automatically redirect to the login site without pressing the button
 - Right-click + "Open link in new tab" now works on Echo360 and PDF links.
 - Pressing Tab inside a multi-line rich text box adds 4 spaces instead of deselecting the text box.
 - The MQ logo on the navigation bar is inlined instead of hanging off the edge.
@@ -115,6 +116,7 @@ Contributions you make are **greatly appreciated**. They help speed up the devel
 ## Contributors
 * [Jack Davenport](https://github.com/Romejanic)
 * [Jordan Bertasso](https://github.com/jordanbertasso)
+* [William Lam](https://github.com/WilliamAtUni)
 
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
