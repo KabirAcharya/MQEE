@@ -36,6 +36,10 @@
         {
             "matches": ["https://mq-edu-web.t1cloud.com/T1SMDefault/WebApps/eStudent/SM/StudyPlanDtls10.aspx*"],
             "js": ["/injection/js/notefix.js"]
+        },
+        {
+            "matches": ["https://ilearn.mq.edu.au/login/index.php"],
+            "js": ["/injection/js/ilearnautologin.js"]
         }
     ]
 }
