@@ -25,20 +25,20 @@
             "js": ["/injection/js/tabfix.js"]
         },
         {
-            "matches": ["https://ilearn.mq.edu.au/my/*"],
+            "matches": ["*://ilearn.mq.edu.au/my/*"],
             "js": ["/injection/js/homepage.js"],
             "css": ["/injection/css/headerfix.css"]
         },
         {
-            "matches": ["https://ilearn.mq.edu.au/course/view.php*"],
+            "matches": ["*://ilearn.mq.edu.au/course/view.php*"],
             "js": ["/injection/js/collapse.js"]
         },
         {
-            "matches": ["https://mq-edu-web.t1cloud.com/T1SMDefault/WebApps/eStudent/SM/StudyPlanDtls10.aspx*"],
+            "matches": ["*://mq-edu-web.t1cloud.com/T1SMDefault/WebApps/eStudent/SM/StudyPlanDtls10.aspx*"],
             "js": ["/injection/js/notefix.js"]
         },
         {
-            "matches": ["https://ilearn.mq.edu.au/login/index.php*"],
+            "matches": ["*://ilearn.mq.edu.au/login/index.php*"],
             "js": ["/injection/js/ilearnautologin.js"]
         }
     ]
