@@ -1,7 +1,7 @@
 {
     "name": "MQEE",
     "description": "Macquarie Essentials Extension: The ultimate solution for all your MQ Platform annoyances.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "manifest_version": 2,
     "browser_action": {
         "default_icon": "internal/images/icon128.png",
@@ -36,6 +36,10 @@
         {
             "matches": ["https://mq-edu-web.t1cloud.com/T1SMDefault/WebApps/eStudent/SM/StudyPlanDtls10.aspx*"],
             "js": ["/injection/js/notefix.js"]
+        },
+        {
+            "matches": ["https://ilearn.mq.edu.au/login/index.php*"],
+            "js": ["/injection/js/ilearnautologin.js"]
         }
     ]
 }
